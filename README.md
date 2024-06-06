@@ -4,3 +4,4 @@
     * comando git push, vamos conversando.
     * adicionando solo na prática!
     * fazendo solo><>
+    add git pull
