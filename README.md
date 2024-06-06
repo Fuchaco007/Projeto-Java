@@ -5,3 +5,4 @@
     * adicionando solo na prática!
     * fazendo solo><>
     add git pull
+   ADD git fetch
