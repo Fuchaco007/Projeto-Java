@@ -1,4 +1,4 @@
 # Curso digital : Git/Versionamento
 
 ## Salvando modificações no Git
-    * comando git push
+    * comando git push, vamos conversando.
